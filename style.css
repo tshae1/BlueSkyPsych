@@ -24,6 +24,11 @@ div > img {
   opacity: 0.
 }
 
+.servicesPicture{
+  object-fit: ;
+  border-radius: 50%;
+}
+
 .satisfy-regular {
   font-family: "Cormorant Garamond", serif;
   font-weight: 300;
