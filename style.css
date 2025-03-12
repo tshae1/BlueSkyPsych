@@ -57,6 +57,18 @@ div > img {
   opacity: 1;
 }
 
+@media (max-width: 478px) {
+  .header {
+    height: 26%;
+  }
+}
+
+@media (min-width: 768px) and (max-width: 991px) {
+  .me-md-auto {
+    margin-right: 0 !important;
+  }
+}
+
 .centered {
   position: absolute;
   top: 25%;
