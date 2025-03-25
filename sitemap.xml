@@ -7,31 +7,31 @@
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://www.blueskypsych.org/public/about.html</loc>
+    <loc>https://www.blueskypsych.org/about</loc>
     <lastmod>2025-03-17</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.blueskypsych.org/public/services.html</loc>
+    <loc>https://www.blueskypsych.org/services</loc>
     <lastmod>2025-03-17</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.blueskypsych.org/public/bookings.html</loc>
+    <loc>https://www.blueskypsych.org/bookings</loc>
     <lastmod>2025-03-17</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.blueskypsych.org/public/contactMe.html</loc>
+    <loc>https://www.blueskypsych.org/contactMe</loc>
     <lastmod>2025-03-17</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.blueskypsych.org/public/FAQs.html</loc>
+    <loc>https://www.blueskypsych.org/FAQs</loc>
     <lastmod>2025-03-17</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
